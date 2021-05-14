@@ -1,0 +1,38 @@
+h1 {font-size:500%;
+        color:red;
+		background:-moz-linear-gradient(DeepSkyBlue,Black);
+		background:-ms-linea-gradient(DeepSkyBlue,Black);
+		background:-webkit-linear-gradient(DeepSkyBlue,Black);
+		border:600px black;
+		padding:20px;
+		background-clip:padding-box;
+		}
+p.first{font-size:50px;
+            font-style:italic;
+			font-weight:bold;
+			color:black;
+			text-align:center;
+			text-shadow:5px 2px 4px gray;
+       }
+p.second{font-family:Blippo,fantasy;
+	         font-size:25px;
+			 color:red;
+			 font-style:oblique;
+			 text-align:right;
+			
+        }
+p.third{
+        font-size:75px;
+		color:black;
+		font-family:Time New Roman;
+		text-decoration:underline;
+       }  
+p.fourth{font-size:100px;
+         font-weight:40px;
+         color:black;
+         text-align:center;
+        
+        }		 
+p.fifth{font-size:20px;
+        text-align:center;
+       } 		
